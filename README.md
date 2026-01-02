@@ -9,7 +9,7 @@ Graphics & Multimedia Software Student 💻
 📚 Always learning & improving
 
 * 🌍  I'm based in Malaysia ,johor bahru.
-* 🖥️  See my portfolio at [My portfolio](http://github.com/NilimaRahman-salt)
+* 🖥️  See my portfolio at [My portfolio](https://nilimarahman-salt.github.io)
 * ✉️  You can contact me at [nilimarahmanlabonno@gmail.com](mailto:nilimarahmanlabonno@gmail.com)
 * 🧠  I'm currently learning coading
 * 👥  I'm looking to collaborate on my projects and my assingments.
